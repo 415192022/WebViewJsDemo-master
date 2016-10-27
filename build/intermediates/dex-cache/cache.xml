@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android\android_sdk\android_sdk\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\ASWorkSpace\WebViewJsDemo-master\WebViewJsDemo-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_06ec8259e140b63e90ae60f7954e3aa88c988ec3.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\WebViewJsDemo-master\WebViewJsDemo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="84ab586e58f7a9c69d3981d6cde5c12ed716e9b0">
+        <dex dex="F:\ASWorkSpace\WebViewJsDemo-master\WebViewJsDemo-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_43a8fbbd55115a7207db2cce5929a628691ee4b5.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\WebViewJsDemo-master\WebViewJsDemo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dc4c0e1ff6b3c2aa8dfae8a500d3429fa50ad5bf">
+        <dex dex="F:\ASWorkSpace\WebViewJsDemo-master\WebViewJsDemo-master\app\build\intermediates\pre-dexed\debug\instant-run_ce8fab5cda0182a211fc1e3242d24004c166fd5e.jar" />
+    </item>
+
+</items>
